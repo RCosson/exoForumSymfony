@@ -1,3 +1,7 @@
+exo_forum:
+    resource: "@exoForumBundle/Resources/config/routing.yml"
+    prefix:   /
+
 app:
     resource: '@AppBundle/Controller/'
     type: annotation
